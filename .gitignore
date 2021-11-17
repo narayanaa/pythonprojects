@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.pyc
+python_aiml.egg-info
+
+*.brn
+*.brain
+
+.DS_Store
